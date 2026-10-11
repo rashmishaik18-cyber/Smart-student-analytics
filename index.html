@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Student Success Platform</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="shell">
+  <aside class="rail" aria-label="Filters">
+    <div class="brand">
+      <h1>Student Success</h1>
+      <p>Who needs help, why, and what to do next</p>
+    </div>
+    <label>Department<select id="f-dept"></select></label>
+    <label>Year<select id="f-year"></select></label>
+    <label>Risk level<select id="f-risk"></select></label>
+    <label>Segment<select id="f-seg"></select></label>
+    <label>Find a student<input id="f-q" type="search" placeholder="Name or ID"></label>
+    <button id="f-reset" class="ghost" type="button">Clear filters</button>
+    <div class="rail-note" id="rail-note"></div>
+  </aside>
+
+  <main>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="overview" aria-selected="true">Overview</button>
+      <button role="tab" data-tab="students" aria-selected="false">Intervention list</button>
+      <button role="tab" data-tab="data" aria-selected="false">Data integration</button>
+      <button role="tab" data-tab="method" aria-selected="false">How the score works</button>
+    </nav>
+
+    <section id="tab-overview" class="panel">
+      <div class="kpis" id="kpis"></div>
+      <div class="grid">
+        <article class="box span2"><h2>Success Score distribution</h2><p class="sub">Each bar is a 5-point score range.</p><div id="c-hist"></div></article>
+        <article class="box"><h2>Student segments</h2><p class="sub">Click a bar to filter.</p><div id="c-seg"></div></article>
+        <article class="box span2"><h2>Attendance vs CGPA</h2><p class="sub">Each dot is a student; click one to open the profile. Lines mark 75% attendance and 6.0 CGPA.</p><div id="c-scatter"></div></article>
+        <article class="box"><h2>Risk by department</h2><p class="sub">Share of students by overall risk. Click to filter.</p><div id="c-dept"></div></article>
+        <article class="box"><h2>Semester GPA trend</h2><p class="sub">Average SGPA of the selected students.</p><div id="c-sgpa"></div></article>
+        <article class="box"><h2>Monthly attendance</h2><p class="sub">Average attendance, July to December.</p><div id="c-att"></div></article>
+        <article class="box"><h2>Pillar profile</h2><p class="sub">Selected students (bar) against the whole campus (tick).</p><div id="c-pillar"></div></article>
+      </div>
+      <article class="box insights"><h2>What the combined data shows</h2><ul id="insights"></ul></article>
+    </section>
+
+    <section id="tab-students" class="panel" hidden>
+      <div class="bar-row">
+        <p id="list-count" class="sub"></p>
+        <button id="export" class="solid" type="button">Download list as CSV</button>
+      </div>
+      <div class="tablewrap"><table id="tbl"></table></div>
+      <button id="more" class="ghost" type="button">Show more</button>
+    </section>
+
+    <section id="tab-data" class="panel" hidden>
+      <article class="box"><h2>Ten sources, one student view</h2>
+        <p class="sub">Every source is keyed by student ID, cleaned, and joined onto the academic record. Gaps are filled with the median of the same department and year, and each student keeps a completeness figure.</p>
+        <div class="tablewrap"><table id="dq"></table></div>
+      </article>
+      <article class="box"><h2>Cleaning steps applied</h2><ul class="plain">
+        <li>IDs such as <code>s0012</code>, <code> S0012 </code> and <code>S-0012</code> become <code>S0012</code>.</li>
+        <li>Department spellings (Comp Sci, C.S.E, cse) map to one code; year text such as "Year 2" becomes 2.</li>
+        <li>Duplicate rows are removed; rows whose ID is not in the academic record are dropped.</li>
+        <li>CGPA entered on a 100-point scale is converted to 10; small overshoots (attendance 106%) are capped; impossible values (aptitude -1) are treated as missing.</li>
+      </ul></article>
+    </section>
+
+    <section id="tab-method" class="panel" hidden>
+      <article class="box"><h2>Student Success Score (0 to 100)</h2>
+        <p class="sub">Each indicator is put on a 0 to 100 scale and multiplied by its weight. The score is the sum.</p>
+        <div id="weights"></div>
+        <p class="sub">Bands: Excellent 75+, Good 60 to 74, Watch 45 to 59, Critical below 45.</p>
+      </article>
+      <div class="grid2">
+        <article class="box"><h2>Academic risk rules</h2><ul class="plain" id="r-acad"></ul><p class="sub" id="r-acad-t"></p></article>
+        <article class="box"><h2>Placement risk rules</h2><ul class="plain" id="r-plc"></ul><p class="sub" id="r-plc-t"></p></article>
+      </div>
+      <article class="box"><h2>Segments</h2><div class="tablewrap"><table id="seg-tbl"></table></div></article>
+    </section>
+  </main>
+</div>
+
+<aside id="drawer" aria-hidden="true">
+  <div class="drawer-inner">
+    <button id="close" class="ghost" type="button">Close</button>
+    <div id="drawer-body"></div>
+  </div>
+</aside>
+<div id="scrim"></div>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

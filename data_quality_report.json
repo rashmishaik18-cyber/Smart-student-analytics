@@ -1,0 +1,112 @@
+[
+  {
+    "source": "academic.csv",
+    "rows_raw": 612,
+    "ids_standardised": 24,
+    "duplicates_removed": 12,
+    "outliers_fixed": 10,
+    "orphans_dropped": 0,
+    "students_missing": 0,
+    "cells_imputed": 19,
+    "rows_clean": 600
+  },
+  {
+    "source": "attendance.csv",
+    "rows_raw": 595,
+    "ids_standardised": 23,
+    "duplicates_removed": 11,
+    "outliers_fixed": 1,
+    "orphans_dropped": 3,
+    "students_missing": 19,
+    "cells_imputed": 57,
+    "rows_clean": 581
+  },
+  {
+    "source": "lms.csv",
+    "rows_raw": 593,
+    "ids_standardised": 23,
+    "duplicates_removed": 11,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 21,
+    "cells_imputed": 107,
+    "rows_clean": 579
+  },
+  {
+    "source": "engagement.csv",
+    "rows_raw": 597,
+    "ids_standardised": 23,
+    "duplicates_removed": 11,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 17,
+    "cells_imputed": 108,
+    "rows_clean": 583
+  },
+  {
+    "source": "placement.csv",
+    "rows_raw": 527,
+    "ids_standardised": 21,
+    "duplicates_removed": 10,
+    "outliers_fixed": 11,
+    "orphans_dropped": 3,
+    "students_missing": 86,
+    "cells_imputed": 384,
+    "rows_clean": 514
+  },
+  {
+    "source": "skills.csv",
+    "rows_raw": 602,
+    "ids_standardised": 24,
+    "duplicates_removed": 11,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 12,
+    "cells_imputed": 55,
+    "rows_clean": 588
+  },
+  {
+    "source": "feedback.csv",
+    "rows_raw": 583,
+    "ids_standardised": 23,
+    "duplicates_removed": 11,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 31,
+    "cells_imputed": 80,
+    "rows_clean": 569
+  },
+  {
+    "source": "academic_semesters.csv",
+    "rows_raw": 2436,
+    "ids_standardised": 97,
+    "duplicates_removed": 47,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 0,
+    "cells_imputed": 0,
+    "rows_clean": 2386
+  },
+  {
+    "source": "attendance_monthly.csv",
+    "rows_raw": 3675,
+    "ids_standardised": 147,
+    "duplicates_removed": 72,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 0,
+    "cells_imputed": 0,
+    "rows_clean": 3600
+  },
+  {
+    "source": "subject_marks.csv",
+    "rows_raw": 3063,
+    "ids_standardised": 122,
+    "duplicates_removed": 60,
+    "outliers_fixed": 0,
+    "orphans_dropped": 3,
+    "students_missing": 0,
+    "cells_imputed": 0,
+    "rows_clean": 3000
+  }
+]

@@ -1,0 +1,596 @@
+student_id,overall_attendance_pct,lowest_subject_pct,lowest_subject
+S0196,82.7,77.0,Laboratory
+ S0464 ,66.9,61.5,Elective
+S0116,77.5,74.3,Core Theory I
+S0011,71.6,65.5,Mathematics
+S0533,83.1,72.4,Core Theory II
+S0340,89.3,81.1,Elective
+S0344,81.9,65.3,Mathematics
+S0131,70.0,57.9,Core Theory II
+S0467,86.3,76.8,Mathematics
+S0046,82.3,73.6,Laboratory
+S0254,98.5,89.9,Elective
+S0559,90.0,84.4,Elective
+S0128,82.2,71.3,Laboratory
+S0146,88.1,76.7,Core Theory II
+S0506,81.8,77.7,Core Theory I
+S0220,71.5,62.7,Laboratory
+S0418,83.9,77.9,Elective
+S0104,76.2,72.1,Core Theory II
+S0391,95.8,75.9,Laboratory
+S0074,89.2,80.7,Laboratory
+S0189,81.3,70.3,Laboratory
+S0068,97.6,94.3,Elective
+S0015,73.9,68.3,Elective
+S0054,67.4,61.1,Laboratory
+S0508,64.6,50.5,Mathematics
+S0553,94.7,87.0,Core Theory II
+S0537,83.4,75.4,Core Theory II
+S0353,79.6,70.6,Core Theory I
+S0179,85.8,75.9,Core Theory II
+S0455,82.6,75.7,Elective
+S0325,99.8,88.6,Core Theory II
+S0062,97.2,93.7,Core Theory II
+S0312,83.4,68.4,Core Theory I
+S0038,81.6,72.4,Laboratory
+S0135,67.1,61.7,Core Theory II
+S0138,77.3,67.0,Laboratory
+S0081,72.5,67.1,Core Theory II
+S0240,82.8,62.3,Laboratory
+S0192,50.2,36.0,Elective
+S0234,83.8,80.4,Elective
+S0092,94.2,85.1,Mathematics
+S0295,88.7,80.0,Core Theory II
+S0457,78.4,70.0,Core Theory II
+S0382,92.6,85.4,Elective
+S0157,73.9,60.2,Core Theory I
+S0049,90.3,82.0,Laboratory
+S0059,64.1,52.0,Core Theory II
+S0502,85.8,81.1,Core Theory I
+S0332,90.5,75.6,Core Theory I
+S0341,92.0,83.8,Laboratory
+S0460,89.5,76.8,Elective
+S0526,64.2,54.4,Core Theory I
+S0172,73.0,64.4,Core Theory I
+S0134,99.3,90.1,Core Theory I
+S0028,76.8,67.0,Mathematics
+S0343,73.2,,Core Theory I
+S0136,94.1,90.0,Core Theory II
+S0202,74.6,66.5,Elective
+S0148,93.3,79.6,Laboratory
+S0268,91.7,82.3,Elective
+S0494,99.2,93.0,Mathematics
+S-0453,91.8,76.9,Core Theory I
+S0115,80.6,77.3,Laboratory
+S0105,79.7,76.0,Mathematics
+S0475,91.2,78.3,Mathematics
+S0044,96.0,89.9,Elective
+S0198,81.0,76.0,Mathematics
+S0216,86.8,67.1,Core Theory I
+S0468,92.2,84.4,Core Theory II
+S0103,72.9,66.2,Core Theory I
+S0251,83.6,75.7,Core Theory II
+S0029,90.0,73.0,Laboratory
+S0279,83.3,68.6,Elective
+S0099,59.0,48.7,Core Theory I
+S0410,81.3,75.1,Mathematics
+S0440,63.7,57.3,Elective
+S0246,98.4,91.7,Elective
+S0404,54.5,46.5,Mathematics
+S0523,79.7,68.9,Elective
+S0478,66.2,56.5,Elective
+S0082,91.7,78.9,Mathematics
+S0406,77.6,73.7,Laboratory
+S0269,76.5,63.1,Mathematics
+S0451,98.2,93.1,Core Theory I
+S0141,84.5,77.4,Mathematics
+S0361,77.4,71.8,Core Theory II
+S0370,89.9,75.3,Core Theory I
+S0215,73.0,58.7,Laboratory
+S0017,84.4,,Mathematics
+S0509,95.4,81.8,Laboratory
+S0584,98.7,90.9,Core Theory I
+S0534,77.1,70.7,Core Theory II
+S0390,89.2,86.1,Laboratory
+S0334,96.1,92.6,Mathematics
+S0588,83.8,78.3,Elective
+S0540,81.7,70.0,Laboratory
+S0180,95.3,,Mathematics
+S0377,74.3,70.2,Core Theory I
+S0110,79.2,67.5,Mathematics
+ S0125 ,84.9,79.6,Elective
+S0221,80.6,74.8,Core Theory I
+S0328,83.1,77.3,Core Theory I
+S0336,72.1,57.3,Elective
+S9001,90.4,79.2,Core Theory II
+S0465,82.7,76.8,Mathematics
+S0594,79.3,72.1,Mathematics
+S0080,49.7,42.0,Elective
+S0041,96.3,84.8,Core Theory I
+S0424,92.0,84.1,Core Theory I
+S0471,99.3,84.1,Mathematics
+S0339,81.9,78.6,Core Theory I
+S0120,86.9,80.0,Core Theory II
+S0250,87.4,74.7,Elective
+S0413,82.6,78.6,Mathematics
+S0174,99.5,93.6,Laboratory
+S0360,61.7,53.9,Laboratory
+S0207,90.1,84.4,Elective
+S0173,87.2,79.9,Core Theory II
+S0058,49.8,35.2,Mathematics
+S0133,92.3,87.9,Mathematics
+S0357,80.7,76.8,Core Theory II
+S0299,87.9,78.8,Mathematics
+s0159,80.2,74.7,Core Theory II
+S0287,97.3,91.6,Core Theory I
+S0319,76.2,63.4,Elective
+S0447,76.9,62.9,Laboratory
+S0165,96.7,92.9,Core Theory II
+S0430,76.2,70.5,Mathematics
+S0190,83.8,71.7,Core Theory I
+S-0277,66.0,,Laboratory
+S0529,69.2,64.0,Core Theory I
+S0327,64.6,59.7,Laboratory
+S0212,60.5,49.3,Mathematics
+S0130,67.7,54.9,Core Theory II
+S0482,86.0,78.6,Core Theory I
+S0314,90.8,83.0,Mathematics
+S0304,80.2,73.0,Laboratory
+S0417,83.7,75.6,Laboratory
+S0547,97.8,94.5,Core Theory I
+S0398,96.3,84.8,Mathematics
+S0338,94.7,80.4,Mathematics
+S0463,71.2,63.8,Laboratory
+S0163,81.8,70.9,Elective
+S0565,90.0,,Laboratory
+S0596,87.1,75.6,Elective
+S0242,58.8,48.6,Laboratory
+S0356,60.3,52.6,Core Theory I
+S0504,73.1,61.4,Elective
+S0322,66.5,56.3,Core Theory I
+S0184,96.0,84.5,Core Theory II
+S0384,98.3,91.5,Core Theory II
+S0275,87.0,79.9,Core Theory I
+S0425,91.7,71.2,Mathematics
+S0184,96.0,84.5,Core Theory II
+S0161,87.7,75.2,Elective
+S0258,74.3,69.9,Mathematics
+S0348,96.9,89.6,Core Theory I
+S0248,93.7,80.1,Elective
+S0449,79.6,67.3,Mathematics
+S0019,96.1,86.4,Core Theory I
+S0350,84.0,68.7,Laboratory
+S0346,75.4,71.5,Laboratory
+S0088,93.6,79.2,Mathematics
+S0433,96.6,92.3,Core Theory II
+S0445,81.4,76.7,Core Theory I
+S0563,89.6,80.3,Elective
+S0261,88.4,,Core Theory I
+S0052,80.5,61.8,Elective
+S0181,96.8,90.2,Core Theory II
+S-0378,72.9,51.7,Core Theory II
+S0386,102.6,91.0,Elective
+S0530,73.2,,Core Theory II
+S0031,90.4,87.0,Core Theory II
+S0067,89.6,81.8,Core Theory I
+S0388,91.3,80.3,Mathematics
+S0487,93.6,,Core Theory II
+S0298,89.0,71.3,Core Theory II
+S0294,91.3,84.4,Elective
+S0566,72.4,58.3,Core Theory I
+S0561,90.7,87.2,Core Theory II
+S0392,64.6,54.1,Laboratory
+S0255,51.2,43.3,Elective
+S0016,97.1,93.1,Core Theory I
+S0462,76.3,68.9,Mathematics
+S0225,94.2,83.9,Laboratory
+S0443,92.6,74.2,Mathematics
+S0401,79.0,71.3,Core Theory I
+S0197,84.8,77.4,Elective
+S0522,88.1,74.9,Core Theory I
+S0239,90.9,86.4,Core Theory I
+S0331,84.1,75.3,Mathematics
+S0501,76.3,65.0,Core Theory I
+S0472,86.5,69.5,Laboratory
+S0479,79.2,69.7,Core Theory I
+S0111,70.7,66.7,Laboratory
+S0574,89.6,79.1,Laboratory
+S0244,69.5,58.1,Elective
+S0374,81.7,78.6,Laboratory
+S0568,68.7,54.8,Laboratory
+S0022,86.4,83.4,Laboratory
+S0026,79.7,76.0,Laboratory
+s0140,81.8,75.7,Laboratory
+S0050,63.9,60.4,Laboratory
+S0306,71.7,61.4,Elective
+S0178,96.1,77.2,Core Theory II
+S0047,98.2,83.9,Core Theory II
+s0209,96.5,91.2,Core Theory I
+S0301,92.1,79.7,Laboratory
+S0549,78.3,75.1,Mathematics
+S0084,85.2,78.2,Elective
+S-0122,87.8,83.6,Laboratory
+S0446,96.8,79.0,Mathematics
+S0217,95.3,90.6,Laboratory
+S0127,52.3,35.5,Core Theory II
+S0170,87.4,79.5,Core Theory II
+S0448,94.5,84.6,Laboratory
+S0193,82.0,65.8,Core Theory I
+s0558,73.4,68.5,Elective
+S0598,78.9,67.9,Elective
+S0236,87.7,72.7,Mathematics
+S0585,93.0,86.9,Core Theory II
+S0060,81.4,74.1,Laboratory
+S0311,90.1,76.9,Elective
+S0108,61.7,53.6,Elective
+S0142,97.0,82.0,Core Theory I
+S0056,98.6,85.3,Core Theory II
+S0591,77.6,66.9,Elective
+S0531,90.0,,Core Theory I
+S0057,95.5,86.0,Laboratory
+S0516,71.3,64.3,Mathematics
+S0349,82.3,70.0,Laboratory
+S0538,59.2,48.8,Core Theory II
+S0089,89.5,80.5,Elective
+S0474,74.6,59.2,Core Theory II
+S0025,72.1,57.1,Elective
+S0118,74.1,67.4,Laboratory
+S0143,79.2,74.7,Core Theory I
+S0106,79.4,72.5,Laboratory
+S0210,87.4,72.7,Elective
+S0276,77.7,65.3,Core Theory II
+S0032,97.4,83.7,Laboratory
+S0488,81.3,71.8,Core Theory II
+S9003,93.8,,Laboratory
+S0273,81.6,70.7,Core Theory I
+S0278,78.5,70.2,Core Theory I
+S0291,63.5,59.6,Mathematics
+S0231,80.6,70.7,Elective
+S0115,80.6,77.3,Laboratory
+S0024,74.4,58.7,Laboratory
+S0383,62.9,58.7,Core Theory I
+s0168,97.7,,Core Theory II
+S0483,94.8,85.8,Core Theory I
+S0237,84.7,77.0,Core Theory II
+S0590,64.7,54.2,Mathematics
+S0372,91.0,76.4,Elective
+S0055,93.1,89.3,Elective
+S0560,69.3,65.5,Core Theory I
+S0132,77.1,65.1,Elective
+S0329,78.6,73.2,Mathematics
+S0247,92.3,87.8,Core Theory II
+S0302,58.7,52.6,Core Theory I
+S0484,92.4,82.2,Core Theory I
+S0100,97.9,92.6,Core Theory II
+S0589,80.4,71.7,Elective
+S0567,66.3,58.5,Elective
+S0421,97.9,86.6,Elective
+S0208,78.8,73.7,Elective
+S0004,75.8,71.4,Elective
+S0466,79.2,72.3,Laboratory
+S0333,77.1,66.7,Core Theory II
+S0519,85.2,81.3,Core Theory I
+S0150,63.5,60.0,Core Theory I
+S0545,84.5,79.6,Mathematics
+S0503,90.5,78.2,Core Theory I
+S0411,89.6,84.3,Core Theory II
+S0267,92.6,86.3,Core Theory II
+S0194,78.6,74.3,Core Theory II
+S0369,67.3,59.5,Elective
+S0577,49.8,46.6,Elective
+S0200,81.6,74.8,Core Theory I
+S0144,93.8,89.2,Core Theory II
+S0083,78.0,62.8,Laboratory
+S0366,82.0,77.2,Core Theory II
+S0367,82.2,75.2,Core Theory I
+S0085,97.0,85.0,Mathematics
+S0548,87.7,81.1,Core Theory II
+S0576,56.9,52.3,Core Theory II
+S0183,82.5,69.7,Elective
+S0101,84.6,76.1,Core Theory I
+S0358,74.8,,Laboratory
+S-0075,76.8,63.1,Mathematics
+S0008,93.1,89.3,Mathematics
+S0280,92.0,81.5,Core Theory I
+S0286,81.0,68.0,Core Theory I
+S0158,82.2,70.2,Core Theory II
+S0368,81.9,76.6,Core Theory II
+S0195,87.0,73.9,Core Theory I
+S0552,83.3,74.9,Mathematics
+S0363,81.0,63.1,Mathematics
+S0420,90.4,85.9,Laboratory
+S0051,69.3,62.4,Mathematics
+S0039,97.6,84.6,Elective
+S0214,90.0,84.6,Mathematics
+S0006,99.0,94.0,Core Theory II
+S0076,85.4,68.3,Core Theory II
+S0255,51.2,43.3,Elective
+S0048,84.4,81.3,Elective
+S0310,71.9,68.8,Mathematics
+S0071,77.1,66.4,Mathematics
+S-0493,92.8,87.8,Core Theory II
+S0232,81.3,76.4,Mathematics
+S0293,93.5,72.3,Core Theory II
+S0012,95.4,90.2,Core Theory I
+S0154,96.0,88.5,Core Theory II
+S0542,60.0,38.7,Core Theory I
+S0119,97.7,87.9,Mathematics
+S0288,84.8,76.2,Core Theory I
+s0260,73.1,64.9,Elective
+S0199,83.9,74.9,Elective
+S0570,82.1,78.8,Core Theory II
+s0066,97.6,93.4,Elective
+S0373,86.6,,Core Theory I
+S0387,97.7,90.6,Mathematics
+S0226,91.8,84.8,Elective
+S0593,99.2,90.4,Elective
+S0070,81.1,73.8,Core Theory II
+S0095,65.0,61.5,Mathematics
+S0069,83.5,58.9,Mathematics
+S0022,86.4,83.4,Laboratory
+S0078,71.2,,Core Theory II
+S0429,86.6,74.2,Laboratory
+S0416,71.4,63.8,Laboratory
+S0243,74.8,68.3,Mathematics
+S0405,78.1,69.8,Mathematics
+S0324,72.1,65.9,Mathematics
+S0129,75.8,71.8,Laboratory
+S0235,75.5,64.0,Core Theory II
+S0400,73.8,52.6,Elective
+S0043,91.7,88.1,Laboratory
+S0005,76.7,71.5,Core Theory I
+S0444,79.4,68.5,Laboratory
+S0065,72.6,60.8,Mathematics
+S0470,83.0,70.8,Laboratory
+S0112,82.9,74.8,Elective
+S0262,86.6,82.0,Core Theory I
+S0399,49.3,37.9,Elective
+S0211,69.1,60.4,Mathematics
+S0469,81.5,73.9,Core Theory II
+S0151,89.5,85.0,Laboratory
+S0007,75.6,63.2,Mathematics
+ S0546 ,60.0,50.1,Laboratory
+S0298,89.0,71.3,Core Theory II
+S0510,84.0,80.2,Laboratory
+S0403,99.6,94.7,Core Theory II
+S0371,84.8,80.5,Core Theory I
+S0432,91.9,82.8,Mathematics
+S0396,83.9,73.2,Laboratory
+S0266,82.9,76.6,Core Theory II
+S0289,90.1,75.2,Mathematics
+S0126,84.7,64.3,Elective
+S0079,97.2,85.9,Mathematics
+S0551,79.1,73.3,Elective
+S0330,77.6,71.6,Mathematics
+S0572,71.0,55.1,Elective
+S0155,74.2,64.3,Core Theory I
+S0307,98.3,87.1,Elective
+S0139,97.2,90.6,Core Theory I
+S0167,79.4,74.5,Core Theory II
+S0481,94.0,87.0,Core Theory I
+S0335,74.3,68.1,Elective
+S0272,97.5,86.8,Elective
+S0532,94.4,77.6,Core Theory II
+S0461,84.9,74.5,Core Theory II
+S0485,80.1,71.8,Core Theory I
+S0309,73.8,66.1,Elective
+S0285,90.8,82.8,Laboratory
+S0147,77.7,69.5,Core Theory II
+S0423,98.8,91.9,Elective
+S0600,81.6,73.9,Core Theory II
+S0205,86.1,78.2,Mathematics
+S0042,99.5,87.2,Core Theory II
+S0415,97.6,82.4,Mathematics
+S0554,58.2,50.5,Laboratory
+S0505,88.9,81.1,Core Theory I
+S0376,82.1,70.1,Core Theory II
+S0238,97.1,93.1,Mathematics
+S0252,67.6,63.3,Mathematics
+S0323,66.0,,Mathematics
+S0171,60.0,55.1,Core Theory I
+S0342,81.3,75.2,Elective
+S0476,71.6,68.4,Elective
+S-0454,79.2,65.6,Core Theory I
+S0270,90.5,78.3,Core Theory I
+S0030,87.3,77.1,Core Theory II
+S0245,96.6,86.8,Mathematics
+S0257,97.2,87.7,Mathematics
+S0166,77.4,,Mathematics
+S0153,89.4,83.4,Core Theory I
+S0233,82.4,78.0,Core Theory II
+s0364,77.3,71.4,Core Theory II
+S0534,77.1,70.7,Core Theory II
+S0096,92.4,86.9,Core Theory I
+S9002,79.5,72.5,Laboratory
+S0228,98.4,91.4,Core Theory I
+S0086,77.1,72.3,Mathematics
+S0402,82.8,72.1,Core Theory II
+S0191,78.1,72.8,Mathematics
+S0090,84.4,72.3,Laboratory
+S0458,71.8,66.3,Laboratory
+S0035,89.2,85.8,Laboratory
+S0224,73.9,70.1,Laboratory
+S0073,94.9,91.6,Core Theory II
+S0313,93.8,,Laboratory
+S0227,80.1,76.5,Mathematics
+S0439,88.0,73.8,Core Theory I
+S0535,79.5,61.0,Laboratory
+S0409,93.0,84.5,Mathematics
+S0408,77.2,73.6,Core Theory I
+S0113,80.2,73.7,Core Theory I
+s0379,76.3,69.2,Core Theory II
+S0426,94.2,85.5,Core Theory I
+S0013,97.9,90.5,Core Theory II
+S0354,82.7,76.6,Core Theory II
+S0203,78.8,69.3,Laboratory
+s0219,70.5,67.4,Core Theory I
+s0580,98.0,90.5,Mathematics
+S0241,79.3,69.9,Core Theory II
+S0571,95.6,88.0,Core Theory II
+S0434,84.3,79.6,Elective
+S0498,93.3,88.5,Laboratory
+S0223,72.3,61.3,Mathematics
+S0098,98.7,87.5,Elective
+S0452,72.2,61.7,Laboratory
+S0305,80.4,72.6,Mathematics
+S0064,97.6,75.8,Elective
+S0229,69.7,62.9,Mathematics
+S0097,96.0,82.5,Laboratory
+S0014,64.9,,Laboratory
+S0337,86.3,81.2,Mathematics
+S0450,93.8,90.7,Laboratory
+S0018,98.7,92.8,Laboratory
+S0587,98.4,86.2,Core Theory I
+S0253,82.4,77.7,Core Theory II
+S0544,89.7,79.1,Mathematics
+S0486,81.6,75.9,Elective
+S0213,85.6,75.6,Elective
+S0091,82.4,77.0,Core Theory I
+S0316,90.4,79.2,Core Theory II
+S0352,56.2,51.3,Elective
+S0394,64.2,58.6,Mathematics
+S0431,91.4,82.9,Core Theory I
+S0355,93.3,81.6,Core Theory I
+S0473,58.8,43.8,Core Theory I
+S0495,95.1,88.3,Mathematics
+S0515,95.5,89.4,Elective
+S0040,72.0,59.2,Laboratory
+S0087,98.1,92.8,Mathematics
+S0185,96.8,81.2,Core Theory II
+S0491,70.1,66.1,Elective
+S0581,94.3,90.3,Core Theory I
+S0149,79.0,74.5,Elective
+S0162,80.0,66.6,Laboratory
+S0176,74.3,69.8,Elective
+S0527,78.5,71.0,Core Theory II
+S0573,84.2,74.5,Core Theory II
+S0422,77.3,57.1,Core Theory I
+S0556,59.6,54.1,Core Theory I
+S0206,72.9,67.5,Laboratory
+S0441,78.9,66.4,Laboratory
+S0395,74.6,66.3,Laboratory
+S0300,84.9,76.3,Mathematics
+S0359,83.4,80.1,Laboratory
+S0072,82.1,61.1,Laboratory
+S0539,93.1,83.9,Core Theory II
+S0569,98.1,81.7,Elective
+S0518,85.2,79.9,Core Theory II
+S0550,71.3,,Elective
+S0158,82.2,70.2,Core Theory II
+S0109,74.4,66.8,Laboratory
+S0362,73.4,55.5,Core Theory I
+S0543,88.9,76.4,Laboratory
+S0137,78.0,70.9,Mathematics
+S0061,93.3,87.2,Elective
+S0597,79.5,72.5,Laboratory
+S0027,98.1,88.9,Elective
+S0407,90.3,87.2,Elective
+S0102,78.0,52.3,Core Theory I
+S0020,97.8,91.6,Mathematics
+S0541,70.9,62.7,Core Theory II
+S0477,83.4,78.0,Mathematics
+S0599,68.5,58.9,Core Theory I
+S0271,76.0,61.8,Core Theory II
+S0283,83.4,79.5,Laboratory
+S0009,85.3,78.3,Elective
+S0375,94.3,89.6,Laboratory
+S-0318,79.9,75.7,Core Theory I
+S0290,85.2,79.5,Core Theory II
+S0414,85.1,78.6,Laboratory
+S0486,81.6,75.9,Elective
+S0094,78.1,67.2,Laboratory
+S0259,73.4,66.6,Laboratory
+S0033,100.0,88.4,Mathematics
+S0442,94.4,90.6,Core Theory II
+S0497,88.6,79.6,Core Theory I
+S0456,89.6,83.1,Laboratory
+S0139,97.2,90.6,Core Theory I
+S0507,88.4,83.3,Elective
+S0492,81.3,73.3,Elective
+S0023,75.4,60.3,Laboratory
+S0480,85.3,77.6,Elective
+S0063,87.7,76.9,Elective
+S0152,61.6,49.8,Core Theory II
+S0499,78.0,70.8,Core Theory I
+S0578,73.1,61.1,Laboratory
+S0264,72.6,64.5,Mathematics
+S0053,98.0,93.9,Core Theory I
+S0249,80.7,70.8,Core Theory II
+S0177,74.4,69.8,Laboratory
+S0036,87.9,79.8,Core Theory I
+S0182,89.9,84.0,Laboratory
+S0124,90.7,84.9,Core Theory I
+S0282,87.3,83.4,Mathematics
+S0045,84.4,73.7,Core Theory I
+S0308,93.4,86.2,Laboratory
+S0077,95.2,91.5,Mathematics
+s0380,73.5,64.0,Laboratory
+S0218,76.4,72.5,Mathematics
+S0274,77.9,72.5,Elective
+S0320,72.5,69.4,Core Theory II
+S0459,98.2,85.9,Laboratory
+S0520,54.8,47.6,Laboratory
+S0511,96.9,92.4,Core Theory I
+S0034,96.3,77.4,Core Theory II
+S0010,75.2,68.4,Core Theory II
+S0164,80.8,63.4,Core Theory II
+S0292,85.4,73.0,Core Theory I
+S0303,82.2,70.6,Core Theory I
+S0284,75.6,70.5,Core Theory II
+S0564,75.8,67.0,Laboratory
+S0500,91.1,73.3,Elective
+S0512,99.0,86.6,Elective
+S0186,62.1,55.8,Elective
+S0592,86.4,82.0,Core Theory I
+S0037,80.8,71.3,Elective
+S0160,87.4,73.4,Elective
+S0003,69.3,,Core Theory I
+S0525,64.1,50.8,Core Theory II
+S0513,78.5,69.8,Mathematics
+S0317,76.0,66.0,Mathematics
+S0297,95.8,83.6,Elective
+S0428,92.6,76.3,Elective
+S0435,83.8,69.7,Laboratory
+S0145,98.2,92.9,Core Theory I
+S0230,78.3,69.9,Mathematics
+S0187,95.8,84.5,Core Theory II
+S0583,71.6,68.2,Core Theory II
+S0528,92.2,85.6,Elective
+S0121,85.3,81.9,Core Theory I
+S0002,87.0,78.9,Core Theory II
+S0117,83.9,70.2,Mathematics
+S0595,77.9,72.2,Core Theory I
+S0169,93.6,78.5,Core Theory I
+S0188,80.1,76.6,Laboratory
+S0385,94.9,90.7,Core Theory II
+S0281,74.3,65.0,Mathematics
+S0001,85.1,73.3,Elective
+S0557,84.6,75.7,Mathematics
+S0517,94.3,79.8,Laboratory
+S0397,85.6,73.3,Laboratory
+S0419,83.7,71.5,Core Theory II
+S0579,83.8,79.4,Core Theory I
+S0021,82.4,67.4,Mathematics
+S0180,95.3,,Mathematics
+S0345,78.6,62.0,Laboratory
+S0393,89.2,84.2,Laboratory
+S0562,91.9,84.5,Mathematics
+S0175,86.0,80.3,Core Theory I
+S0536,87.5,78.9,Core Theory II
+S0524,99.3,96.1,Laboratory
+S0156,96.1,82.7,Mathematics
+S0427,67.0,61.9,Mathematics
+S0375,94.3,89.6,Laboratory
+S0326,92.7,81.4,Laboratory
+S0265,95.9,92.2,Laboratory
+S0490,98.1,87.2,Mathematics
+S0347,85.5,76.0,Laboratory
+S0555,96.1,84.8,Core Theory I
+S0521,68.9,57.4,Core Theory II
+S0412,87.3,75.0,Core Theory II
+S0438,99.2,94.9,Core Theory II
+S0496,78.7,72.6,Elective
+S0436,81.5,76.7,Mathematics
+S0123,82.5,79.1,Core Theory II
+S0263,83.1,78.6,Laboratory
+S0256,90.5,74.3,Core Theory I
